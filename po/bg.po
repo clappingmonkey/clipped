@@ -16,7 +16,7 @@ msgstr ""
 
 #: src/MainWindow.vala:54
 msgid "Search Clipboard History…"
-msgstr ""
+msgstr "тест"
 
 #: src/MainWindow.vala:98
 msgid "No Clipboard Items Found"
